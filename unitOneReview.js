@@ -195,7 +195,7 @@ for(i = 0; i < colors.length; i++){
         -- github -- cloud service for storing git repositories
         -- git init -- initiates a git repository
         -- git clone -- downloading a repository from github
-        -- git status
+        -- git status -- tells the status of your git
         -- git add -- adds changes to file to a staging ground
         -- git commit -- saves changes to a repository
         -- git push -- sends the repository to github
